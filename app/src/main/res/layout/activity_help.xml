@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/light_house_ps"
+    android:backgroundTint="@color/BlackHighlight"
+    android:backgroundTintMode="src_atop">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/how_to_set_title"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColorHighlight="@color/BlackHighlight"
+        android:textColor="@color/whiteText"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/how_to_set"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/whiteText"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/how_to_find_title"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/whiteText"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/how_to_find"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/whiteText"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/light_house"
+        android:textColor="@color/whiteText"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/grandpa"
+        android:textColor="@color/whiteText"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/me"
+        android:textColor="@color/whiteText"/>
+</LinearLayout>

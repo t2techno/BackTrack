@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Back Track</string>
+    <string name="set_location">Set Location</string>
+    <string name="find_item">Find Item</string>
+    <string name="help">Help</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_itemList">ItemList</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="prompt_name">Name of object:</string>
+    <string name="prompt">Enter text here..</string>
+    <string name="delete_text">Would you like to delete this entry?</string>
+    <string name="camera_text">Would you like to take a picture?</string>
+    <string name="navigate_text">Would you like to be directed here?</string>
+    <string name="gps_network_not_enabled1">Please enable your GPS</string>
+    <string name="gps_network_not_enabled2">so your location can be saved</string>
+    <string name="open_location_settings">Open Location Settings</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Ok">OK</string>
+
+    <string name="how_to_set_title"><u><b>How to Set Location</b></u></string>
+    <string name="how_to_find_title"><u><b>How to Find</b></u></string>
+    <string name="how_to_set">1. Press the \"Set Location\" button.\n
+        2. Enter name of thing you will want to find later.\n
+        3. You can take a picture of the item or area for reference if you wish.\n
+        4. You\'re done!
+    </string>
+
+    <string name="how_to_find">1. Press the \"Find Item\" button.\n
+        2. Pick the item you want to find from the list.\n
+        3. Pick how you would like to get there.\n
+        4. Follow google maps!
+    </string>
+
+    <string name="light_house">Light House water color by</string>
+
+    <string name="grandpa"><b>Russel Watts</b></string>
+
+    <string name="me">Written by <b>Tyler Tuschhoff</b> @2016</string>
+</resources>
