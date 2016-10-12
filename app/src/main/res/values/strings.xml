@@ -21,16 +21,17 @@
 
     <string name="how_to_set_title"><u><b>How to Set Location</b></u></string>
     <string name="how_to_find_title"><u><b>How to Find</b></u></string>
-    <string name="how_to_set">1. Press the \"Set Location\" button.\n
+    <string name="how_to_set"> 1. Press the \"Set Location\" button.\n
         2. Enter name of thing you will want to find later.\n
         3. You can take a picture of the item or area for reference if you wish.\n
         4. You\'re done!
     </string>
 
-    <string name="how_to_find">1. Press the \"Find Item\" button.\n
+    <string name="how_to_find"> 1. Press the \"Find Item\" button.\n
         2. Pick the item you want to find from the list.\n
         3. Pick how you would like to get there.\n
-        4. Follow google maps!
+        4. Follow google maps!\n
+        5. Long-hold an item to delete it
     </string>
 
     <string name="light_house">Light House water color by</string>
